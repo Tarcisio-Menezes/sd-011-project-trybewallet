@@ -32,6 +32,18 @@ O projeto Trye-Wallet foi desenvolvido de forma avaliativa durante o curso de de
   * Inicialize a aplicação:
     * `npm start` (uma nova página deve abrir no seu navegador)
 
+## Como usar a aplicação:
+
+* A aplicação vai iniciar na página de login.
+* Digite um e-mail válido e uma senha com mais de 6 caracteres para habilitar o botão `entrar`.
+* Aperte o botão `entrar` para ir para acessar a wallet.
+* Na parte superior, voCê identificará o seu e-mail e o total de suas despesas registradas, em real.
+* Para registrar uma despesa digite um valor, adicione uma descrição, moeda utilizada, método de pagamento e uma tag.
+* O botão `Adicionar despesa` deverá ser habilitado.
+* Clique em `Adicionar despesa` para adicionar o registro, uma linha deverá ser adicionada a tabela abaixo.
+* Você pode excluir o registro clicando em `Excluir` na linha do próprio registro.
+* O `Total` na parte superior atualiza automáticamente.
+* A aplicação trabalha com o . (ponto) como separador de milhar.
 
 ## Documentação da API de Cotações de Moedas
 
