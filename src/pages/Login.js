@@ -99,7 +99,7 @@ class Login extends React.Component {
         </div>
         <div className="field">
           <p className="control">
-            <Link to="/carteira">
+            <Link to="/trybeWallet/carteira">
               <button
                 className="button is-success"
                 type="button"
