@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/trybe-trybewallet/static/css/main.babd03ca.chunk.css",
-    "main.js": "/trybe-trybewallet/static/js/main.f366ee37.chunk.js",
-    "main.js.map": "/trybe-trybewallet/static/js/main.f366ee37.chunk.js.map",
-    "runtime-main.js": "/trybe-trybewallet/static/js/runtime-main.a6aee2ef.js",
-    "runtime-main.js.map": "/trybe-trybewallet/static/js/runtime-main.a6aee2ef.js.map",
-    "static/js/2.b8872b92.chunk.js": "/trybe-trybewallet/static/js/2.b8872b92.chunk.js",
-    "static/js/2.b8872b92.chunk.js.map": "/trybe-trybewallet/static/js/2.b8872b92.chunk.js.map",
-    "index.html": "/trybe-trybewallet/index.html",
-    "precache-manifest.e6f365868f4d26d4dc7456f55bf0b405.js": "/trybe-trybewallet/precache-manifest.e6f365868f4d26d4dc7456f55bf0b405.js",
-    "service-worker.js": "/trybe-trybewallet/service-worker.js",
-    "static/css/main.babd03ca.chunk.css.map": "/trybe-trybewallet/static/css/main.babd03ca.chunk.css.map",
-    "static/js/2.b8872b92.chunk.js.LICENSE.txt": "/trybe-trybewallet/static/js/2.b8872b92.chunk.js.LICENSE.txt"
+    "main.css": "/trybeWallet/static/css/main.ae59e9ba.chunk.css",
+    "main.js": "/trybeWallet/static/js/main.f8cb0b97.chunk.js",
+    "main.js.map": "/trybeWallet/static/js/main.f8cb0b97.chunk.js.map",
+    "runtime-main.js": "/trybeWallet/static/js/runtime-main.0adc0600.js",
+    "runtime-main.js.map": "/trybeWallet/static/js/runtime-main.0adc0600.js.map",
+    "static/js/2.00fa93f5.chunk.js": "/trybeWallet/static/js/2.00fa93f5.chunk.js",
+    "static/js/2.00fa93f5.chunk.js.map": "/trybeWallet/static/js/2.00fa93f5.chunk.js.map",
+    "index.html": "/trybeWallet/index.html",
+    "precache-manifest.8ccb226e954de942516216e2e8e07391.js": "/trybeWallet/precache-manifest.8ccb226e954de942516216e2e8e07391.js",
+    "service-worker.js": "/trybeWallet/service-worker.js",
+    "static/css/main.ae59e9ba.chunk.css.map": "/trybeWallet/static/css/main.ae59e9ba.chunk.css.map",
+    "static/js/2.00fa93f5.chunk.js.LICENSE.txt": "/trybeWallet/static/js/2.00fa93f5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a6aee2ef.js",
-    "static/js/2.b8872b92.chunk.js",
-    "static/css/main.babd03ca.chunk.css",
-    "static/js/main.f366ee37.chunk.js"
+    "static/js/runtime-main.0adc0600.js",
+    "static/js/2.00fa93f5.chunk.js",
+    "static/css/main.ae59e9ba.chunk.css",
+    "static/js/main.f8cb0b97.chunk.js"
   ]
 }
