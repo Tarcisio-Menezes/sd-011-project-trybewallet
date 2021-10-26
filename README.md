@@ -5,11 +5,13 @@ O projeto Trye-Wallet foi desenvolvido de forma avaliativa durante o curso de de
 
 # Tecnologias
 
-  * ReactJS
+  * ReactJS;
 
-  * Store, Reducers e Dispatchers no Redux em aplicações React
+  * Store, Reducers e Dispatchers no Redux em aplicações React;
 
-  * Actions assíncronas.
+  * Actions assíncronas;
+
+  * Bulma CSS;
 
 ---
 
